@@ -1,0 +1,8 @@
+{
+  "name": "Copy of 心笺 (Xin Jian)",
+  "description": "A poetic inspiration recorder blending Chinese aesthetics with AI insights.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
